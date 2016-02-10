@@ -1,2 +1,5 @@
-# demo-repository
-This is not a fuzzy spoon
+# Demo Repository
+
+For demonstration purposes only.
+
+This is not a fuzzy spoon.
